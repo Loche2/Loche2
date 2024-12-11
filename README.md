@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Recommendation System Security in the School of BigData & Software Engineering, Chongqing University!
+- 🌱 I’m currently learning Recommendation System and LLMs!
+- 💬 Ask me about Chongqing University!
+- 📫 How to reach me: zhoulei@cqu.edu.cn
