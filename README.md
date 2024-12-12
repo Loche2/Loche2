@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Recommendation System Security in the School of BigData & Software Engineering, Chongqing University!
+- 🔭 I’m currently study on Recommendation System Security as a postgraduate student in the School of BigData & Software Engineering, Chongqing University!
 - 🌱 I’m currently learning Recommendation System and LLMs!
 - 💬 Ask me about Chongqing University!
 - 📫 How to reach me: zhoulei@cqu.edu.cn
+
