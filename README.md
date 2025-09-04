@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently study on Recommendation System Security as a postgraduate student in the School of BigData & Software Engineering, Chongqing University!
 - 🌱 I’m currently learning Recommendation System and LLMs!
-- 💬 Ask me about Chongqing University!
+- ⚡ My first paper and project: [BECOME: Budget and Frequency Controlled Rank-Aware Model Extraction Attack on Sequential Recommenders](https://github.com/Loche2/BECOME)
+- 💬 Ask me about Anything!
 - 📫 How to reach me: zhoulei@cqu.edu.cn
 
